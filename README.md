@@ -1,6 +1,6 @@
 # HTML-class-S35
 2024/9/12首次上課，目標：HTML網頁設計練習
-- 學習資料來源```https://www.tcsh.hlc.edu.tw/ischool/public/resource_view/openfid.php?id=4324```
+- 學習資料來源```https://www.tcsh.hlc.edu.tw/ischool/public/resource_view/openfid.php?id=4630```
 ## 基礎認知
 - html 網站主體通常為一```index.html```之檔案且調用元素需在```<html>```檔案之資料夾中或使用URL連結
 ## 基本結構
